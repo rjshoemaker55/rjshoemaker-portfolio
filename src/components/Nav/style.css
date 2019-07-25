@@ -1,0 +1,43 @@
+#top-nav {
+  background: rgb(233,122,99, .55);
+  color: whitesmoke;
+  /* border-bottom: 1px solid rgb(255,255,255, .65); */
+}
+ 
+#bottom-nav {
+  background: rgb(210,185,180);
+  color: #191919;
+  line-height: 1;
+  height: 71px;
+}
+
+a.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#react-button {
+  text-align: center;
+  padding: 10px 20px;
+  background-color: darkgray;
+  border-radius: 5px;
+  box-shadow: 2px 2px #333333;
+  margin: 10px;
+  text-decoration: none;
+  color: #333333;
+}
+
+#react-button:hover {
+  background: #333333;
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  #react-button {
+    white-space: nowrap
+  }
+  
+}
+
+
+
