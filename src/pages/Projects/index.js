@@ -22,8 +22,8 @@ class Projects extends Component {
                 className='secondary-header' 
                 id='projects-sec-header'>
                 Click on a project to visit the deployed app. Repo links 
-                  <span id='in-caption'>are in the caption.</span>
-                  <span id='found-below'>can be found below.</span>
+                  <span id='in-caption'> are in the caption.</span>
+                  <span id='found-below'> can be found below.</span>
               </h3>
             </div>
           </div>
