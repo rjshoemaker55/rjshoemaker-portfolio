@@ -1,12 +1,10 @@
 import React from 'react';
 import './App.css';
 
-import Navi from './components/Nav/';
+import Navi from './components/Navi/';
 
 function App() {
-  return (
-    <Navi />
-  );
+  return <Navi />;
 }
 
 export default App;
